@@ -23,7 +23,7 @@
 
 ## Commit
 ### O que é um Commit?
->Um _commit_ adiciona as alterações mais recentes do código-fonte para o repositório, tornando essas alterações parte da revisão principal do repositório. O próprio termo _"commit"_, no inglês, significa "comprometer-se", ou seja, quando você realiza um _"commit"_, você se compromete que aquelas modificações realizadas, ficarão efetivamente salvas no repositório.
+>Um **_commit_** adiciona as alterações mais recentes do código-fonte para o repositório, tornando essas alterações parte da revisão principal do repositório. O próprio termo _"commit"_, no inglês, significa "comprometer-se", ou seja, quando você realiza um _"commit"_, você se compromete que aquelas modificações realizadas, ficarão efetivamente salvas no repositório.
 
 ### É possível "desfazer" um Commit?
 >Sim, os sistemas de controle de versão (GIT) permitem reverter facilmente para versões anteriores. Nesse contexto, um commit dentro de um _Git_ é protegido, pois é facilmente revertido, mesmo após o commit ter sido aplicado.
