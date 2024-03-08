@@ -57,3 +57,7 @@
 >É o oposto de _"git fetch"_, que importa commits para ramificações locais, enquanto o comando _push_ exporta commits para ramificações remotas. As ramificações remotas são configuradas usando o comando _"git remote"_ — uma interface para gerenciar uma lista de entradas remotas que são armazenadas no 'arquivo ./. git/config' do repositório. — O comando _push_ tem o potencial de sobrescrever modificações e, assim, deve ser usado com cuidado.
 
 >**Resumindo:** Envia as alterações do repositório local até o remoto (GitHub).
+
+## Git Status
+### O que é Git Status?
+>O comando _**git status**_ exibe as condições do diretório de trabalho e da área de staging. Ele permite que você veja quais alterações foram despreparadas, quais não foram e quais arquivos não estão sendo monitorados pelo Git.
