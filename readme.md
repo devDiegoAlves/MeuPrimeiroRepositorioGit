@@ -35,6 +35,8 @@
 >Sobretudo, utiliza-se o  _"git clone"_ para apontar para um repositório existente e fazer um clone ou cópia deste repositório no novo diretório, em outro local. O repositório original pode estar localizado no sistema de arquivos local ou em protocolos com suporte a acesso por máquinas remotas. O comando _git clone_ copia um repositório do _Git_ existente.
 >
 >A "cópia de trabalho" é um repositório completo do _Git_ — que tem seu próprio histórico, gerencia seus próprios arquivos e é um ambiente isolado como um todo do repositório original.
+>
+>**Resumindo:** Basicamente, copia o arquivo do próprio Git Hub e possibilita que o repositório local receba exatamente o mesmo arquivo (clonado).
 
 ## Git Fetch, Git Pull e Git Push
 ### O que é Git Fetch?
