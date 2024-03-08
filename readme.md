@@ -41,7 +41,7 @@
 >O comando _git fetch_ baixa _"commits"_, arquivos e referências de um repositório remoto para seu repositório local. Busca (_fetching_) é o que você faz quando quer ver em que todos estão trabalhando.
 >
 >O Git isola o conteúdo buscado do conteúdo local existente e não tem efeito algum no trabalho local de desenvolvimento.
-
+>
 >Ao baixar conteúdo de um repositório remoto, os comandos _git pull_ e _git fetch_ ficam disponíveis para realizar a tarefa. Pode se considerar _"git fetch"_ a versão "segura" desses comandos. Ele vai baixar o conteúdo remoto, mas não vai atualizar o estado de trabalho do repositório local, deixando o trabalho atual intacto.
 
 >**Resumindo:** Identifica alterações entre um repositório local e o remoto.
